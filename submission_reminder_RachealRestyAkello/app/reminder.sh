@@ -12,4 +12,4 @@ echo "Assignment: "
 echo "Days remaining to submit:  days"
 echo "--------------------------------------------"
 
-check_submissions \$submissions_file
+check_submissions 

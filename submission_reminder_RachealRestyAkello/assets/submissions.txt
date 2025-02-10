@@ -8,3 +8,18 @@ Bridget, Shell Navigation, not submitted
 Jonathan, Shell Permissions, submitted
 Graciela, Git, not submitted
 Prisca, Shell Basics, submitted
+Sandra, Python, submitted
+Bridget, Shell Navigation, not submitted 
+Jonathan, Shell Permissions, submitted
+Graciela, Git, not submitted
+Prisca, Shell Basics, submitted
+student, assignment, submission status
+Chinemerem, Shell Navigation, not submitted
+Chiagoziem, Git, submitted
+Divine, Shell Navigation, not submitted
+Anissa, Shell Basics, submitted
+Sandra, Python, submitted
+Bridget, Emacs, not submitted 
+Jonathan, Shell Permissions, submitted
+Graciela, Git, not submitted
+Prisca, Shell Loops, submitted

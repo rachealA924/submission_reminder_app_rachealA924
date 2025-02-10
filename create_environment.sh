@@ -65,11 +65,16 @@ function check_submissions {
 EOL
 echo "New student submissions"
 cat <<EOL >> ../submission_reminder_RachealRestyAkello/assets/submissions.txt
+student, assignment, submission status
+Chinemerem, Shell Navigation, not submitted
+Chiagoziem, Git, submitted
+Divine, Shell Navigation, not submitted
+Anissa, Shell Basics, submitted
 Sandra, Python, submitted
-Bridget, Shell Navigation, not submitted 
+Bridget, Emacs, not submitted 
 Jonathan, Shell Permissions, submitted
 Graciela, Git, not submitted
-Prisca, Shell Basics, submitted
+Prisca, Shell Loops, submitted
 EOL
 touch startup.sh
 echo "Startup content"
