@@ -71,9 +71,9 @@ Chiagoziem, Git, submitted
 Divine, Shell Navigation, not submitted
 Anissa, Shell Basics, submitted
 Sandra, Python, submitted
-Bridget, Emacs, not submitted 
+Bridget, Shell Navigation, not submitted 
 Jonathan, Shell Permissions, submitted
-Graciela, Git, not submitted
+Graciela, Shell Navigation, not submitted
 Prisca, Shell Loops, submitted
 EOL
 touch startup.sh
